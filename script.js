@@ -22,7 +22,7 @@ function signup() {
     alert('User successfully created!');
 
     // Redirect to login page
-    window.location.href = 'index.html';
+    window.location.href = 'index2.html';
 }
 
 function login() {
